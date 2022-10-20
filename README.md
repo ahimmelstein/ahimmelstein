@@ -1,6 +1,10 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com" width="100%" alt="Banner">
-</div>
+
+
+
+
+
+![Banner4Github](https://user-images.githubusercontent.com/29798967/197008855-71b01289-af80-4cb4-924d-6d1061f577ca.png)
+
 
 <h3>ABOUT ME</h3>
 
@@ -74,6 +78,6 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 ![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white)&nbsp;
 
 </details>
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue
+
 
 
